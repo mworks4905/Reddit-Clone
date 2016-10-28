@@ -1,0 +1,28 @@
+.addPost {
+  float: left;
+  margin-top: .5em;
+}
+
+img {
+  height: 11em;
+  width:auto;
+  margin-left: -1rem;
+}
+
+.title {
+  font-weight: bold;
+  float: left;
+}
+
+.author {
+  font-weight: bold;
+  float: right;
+}
+
+.green {
+  color: green;
+}
+
+.red {
+  color: red;
+}
